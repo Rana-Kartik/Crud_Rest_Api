@@ -1,0 +1,7 @@
+{
+    "env":
+    {
+        "MONGODB_ATLAS_PASSWORD":"kartik",
+        "JWT_KEY":"Secret"
+    }
+}
